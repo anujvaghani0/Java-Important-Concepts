@@ -37,6 +37,7 @@ public class oopPs {
         System.out.println(e.getName());
 
 //        Problem-2
+//
         square sq=new square();
         sq.side=5;
         System.out.println(sq.area());

@@ -34,7 +34,7 @@ public class Method {
 //     }
 //     System.out.println(c1);
 
-
+//
 //  method are access
    int a=5;
    int b=6;

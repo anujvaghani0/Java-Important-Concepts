@@ -23,7 +23,7 @@ public class Recursion {
     }
 
     public static void main(String[] args) {
-//        System.out.println("factroial are "+factroial(6));
-//        System.out.println("factroial are "+factroial_ineractive(5));
+        System.out.println("factroial are "+factroial(6));
+        System.out.println("factroial are "+factroial_ineractive(5));
     }
 }

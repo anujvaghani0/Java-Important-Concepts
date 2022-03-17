@@ -19,7 +19,7 @@ class Employe{
         System.out.println("about us"+details);
         return null;
     }
-
+//
 }
 public class oop {
     public static void main(String[] args) {

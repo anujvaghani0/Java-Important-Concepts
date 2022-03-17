@@ -8,7 +8,7 @@ public class Method_PS {
 //            System.out.format("%d X %d=%d\n",n,i,n*i);
 //        }
 //    }
-
+//
 //    Problem-2
 //    static void patten(int n){
 //        for(int i=0;i<n;i++){
@@ -18,7 +18,7 @@ public class Method_PS {
 //            System.out.print("\n");
 //        }
 //    }
-
+//
 //    Problem-3
 //    static int sum(int n){
 //        if(n==1){
