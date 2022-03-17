@@ -12,7 +12,7 @@ public class game {
         Random rd=new Random();
         int computerInput=rd.nextInt(3);
         System.out.println("computer are entered: "+computerInput);
-       if(userinpute==computerInput) {
+        if(userinpute==computerInput) {
            System.out.println("draw");
        }
          else if (userinpute==0 && computerInput==2 || userinpute==1 && computerInput==0 || userinpute==2 && computerInput==1){

@@ -21,7 +21,7 @@ class Employe{
     }
 //
 }
-public class oop {
+    public class oop {
     public static void main(String[] args) {
          Employe e=new Employe(); //Instantiating a new object
          Employe e1=new Employe(); //Instantiating a new object as employee
