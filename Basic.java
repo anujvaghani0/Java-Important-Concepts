@@ -243,7 +243,7 @@ public class Basic {
 //    sum=sum+arr[i];
 //}
 //        System.out.println(sum);
-
+//
 //        float [] marks={50.0f,45.5f,56.0f};
 //        float sum=0;
 //          for(float element:marks) {
