@@ -31,4 +31,13 @@
 
 #### [Coding Interview Problems](java_coding)
 
-.
+
+## Author
+
+| Author                | Profile Link                                       |
+| --------------------- | :------------------------------------------------- |
+| **Anuj V Vaghani** | **[Anuj Vaghani](https://github.com/anujvaghani0)** |
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/anujvaghani0">Anuj Vaghani</a>
+</p>
