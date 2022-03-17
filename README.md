@@ -1,4 +1,5 @@
-##  Java - Data Structures & Algorithms [WIP]
+<h1 align="center"> Java - Data Structures & Algorithms </h1>
+
 ![algo coding](https://user-images.githubusercontent.com/2780145/109364614-2f206d00-78b5-11eb-8752-e28a8cf67f16.png)
 
 ### NOTES [Useful Info] :
@@ -32,12 +33,15 @@
 #### [Coding Interview Problems](java_coding)
 
 
-## Author
+<div align="center">
+
+
+  <h2>Author</h2>
 
 | Author                | Profile Link                                       |
-| --------------------- | :------------------------------------------------- |
+| --------------------- | ------------------------------------------------- |
 | **Anuj V Vaghani** | **[Anuj Vaghani](https://github.com/anujvaghani0)** |
-
+</div>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/anujvaghani0">Anuj Vaghani</a>
 </p>
